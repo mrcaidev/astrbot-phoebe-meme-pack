@@ -1,0 +1,50 @@
+{
+  "maintainer": "mrcaidev",
+  "source": {
+    "subpath": ".",
+    "ref": "main",
+    "repo": "mrcaidev/astrbot-phoebe-meme-pack",
+    "type": "github"
+  },
+  "id": "astrbot-phoebe-meme-pack",
+  "tags": ["菲比", "鸣潮", "可爱", "phoebe", "wuwa", "wuthering-wave", "cute"],
+  "version": "1.0.0",
+  "description": "《鸣潮》菲比表情包",
+  "name": "鸣潮菲比",
+  "categories": {
+    "afraid": {
+      "description": "害怕，恐惧，惊吓"
+    },
+    "angry": {
+      "description": "生气，嗔怒，发怒，不适"
+    },
+    "confused": {
+      "description": "困惑，不解，疑问，痴呆"
+    },
+    "happy": {
+      "description": "开心，快乐，笑"
+    },
+    "interested": {
+      "description": "感兴趣，好奇，赞赏"
+    },
+    "love": {
+      "description": "爱，喜欢，想要，追求"
+    },
+    "sad": {
+      "description": "伤心，难过，委屈，哭"
+    },
+    "shocked": {
+      "description": "惊讶，意外，吃惊，感叹"
+    },
+    "shy": {
+      "description": "害羞，动情，欲望"
+    },
+    "smug": {
+      "description": "得意，骄傲"
+    },
+    "speechless": {
+      "description": "无语，鄙视"
+    }
+  },
+  "license": "MIT"
+}
